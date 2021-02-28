@@ -11,7 +11,7 @@ Nuestra solución para tomar estas notas es un *bot* que atenderá nuestros mens
 
 - :hammer: Lenguaje de programación: GO
 - :scroll: Servicio de logging : ** TBD **
-- :floppy_disk: :mini_disk: Almacenamiento: ** TBD **
+- :floppy_disk: :minidisc: Almacenamiento: ** TBD **
 - :wrench: Configuración: ** TBD ** 
 
 ## Gestión de proyecto
