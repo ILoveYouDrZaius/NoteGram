@@ -5,7 +5,7 @@
 
 Queremos poder tomar notas desde Telegram y poder recuperarlas más tarde.
 
-Para tomar estas notas usaremos un *bot* que atenderá nuestros mensajes y almacenará las notas para poder consultarlas.
+Nuestra solución para tomar estas notas es un *bot* que atenderá nuestros mensajes y almacenará las notas para poder consultarlas cuando queramos.
 
 ## Tecnologías que vamos a usar
 
@@ -30,9 +30,6 @@ Para cumplir con el reglamento de proyección de datos tendremos que incorporar 
 ## Estructura del proyecto:
 
 📁[docs](docs) Documentación
-
--  📁 [Epica](docs/epica.md)
--  
 
 📁[docs/Diseño Funcional](docs/Diseño_Funcional.md) - Diseño funcional de la aplicación (alto nivel) 
 
