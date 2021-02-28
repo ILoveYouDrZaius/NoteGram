@@ -7,11 +7,11 @@ Queremos poder tomar notas desde Telegram y poder recuperarlas más tarde.
 
 Nuestra solución para tomar estas notas es un *bot* que atenderá nuestros mensajes y almacenará las notas para poder consultarlas cuando queramos.
 
-## Tecnologías que vamos a usar
+## Tecnologías de nuestra solucións
 
 - :hammer: Lenguaje de programación: GO
 - :scroll: Servicio de logging : ** TBD **
-- :floppy_disk: :minidisk: Almacenamiento: ** TBD **
+- :floppy_disk: :mini_disk: Almacenamiento: ** TBD **
 - :wrench: Configuración: ** TBD ** 
 
 ## Gestión de proyecto
